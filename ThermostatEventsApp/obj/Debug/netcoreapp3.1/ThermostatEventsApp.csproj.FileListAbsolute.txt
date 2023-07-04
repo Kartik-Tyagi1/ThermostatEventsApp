@@ -1,0 +1,14 @@
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\netcoreapp3.1\ThermostatEventsApp.exe
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\netcoreapp3.1\ThermostatEventsApp.deps.json
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\netcoreapp3.1\ThermostatEventsApp.runtimeconfig.json
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\netcoreapp3.1\ThermostatEventsApp.runtimeconfig.dev.json
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\netcoreapp3.1\ThermostatEventsApp.dll
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\bin\Debug\netcoreapp3.1\ThermostatEventsApp.pdb
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.csproj.AssemblyReference.cache
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.AssemblyInfoInputs.cache
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.AssemblyInfo.cs
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.csproj.CoreCompileInputs.cache
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.dll
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.pdb
+C:\Dev\C_Sharp\ThermostatEventsApp\ThermostatEventsApp\obj\Debug\netcoreapp3.1\ThermostatEventsApp.genruntimeconfig.cache
